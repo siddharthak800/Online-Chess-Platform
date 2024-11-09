@@ -1,2 +1,2 @@
 # Online-Chess-Platform
- online chess playing platform resembling chess.ocm
+ online chess playing platform resembling chess.com
